@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1479573523 source:d:\greg\workspaces\codeblocks\dictionnaire2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"gestrech.c"
+
+1479572695 d:\greg\workspaces\codeblocks\dictionnaire2\gestrech.c
+	<dirent.h>
+
